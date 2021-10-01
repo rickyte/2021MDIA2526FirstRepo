@@ -4,8 +4,20 @@ pencil
 tape
 glueg
 
-Grocery list
+Grocery 
 bread
 butter
 jam
-main
+
+
+Supplies
+pencil
+tape
+glueg
+
+Shoes
+runners
+sneakers
+
+
+
