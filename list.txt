@@ -1,4 +1,11 @@
+supplies
+Supplies
+pencil
+tape
+glueg
+
 Grocery list
 bread
 butter
 jam
+main
