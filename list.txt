@@ -1,7 +1,14 @@
-Grocery list
+supplies
+Supplies
+pencil
+tape
+glueg
+
+Grocery 
 bread
 butter
 jam
+
 
 Supplies
 pencil
@@ -11,3 +18,6 @@ glueg
 Shoes
 runners
 sneakers
+
+
+
