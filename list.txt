@@ -2,3 +2,12 @@ Grocery list
 bread
 butter
 jam
+
+Supplies
+pencil
+tape
+glueg
+
+Shoes
+runners
+sneakers
